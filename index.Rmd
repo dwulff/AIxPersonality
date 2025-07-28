@@ -1,0 +1,24 @@
+---
+title: "Conceptual Clarity"
+description: |
+  Interdisciplinary Workshop, September 10-12, 2025, Basel, Switzerland. 
+  
+output: 
+  distill::distill_article:
+    md_extensions: +emoji
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+The proliferation of constructs and measures in psychology has led to confusion around key concepts and their operationalizations, sparking increasing calls for conceptual clarification. This workshop will bring together researchers in psychology and related fields to discuss the challenges posed by conceptual confusion and identify solutions to improve conceptual clarity in psychology and related fields.
+
+The program of the meeting is detailed in the **[workshop](workshop.html)** page. You can find a full list of participants in **[people](people.html)**.
+
+<aside>
+Want to get in touch? Send us an email at [cds-psych@unibas.ch](mailto:cds-psych@unibas.ch)!
+</aside>

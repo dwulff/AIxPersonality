@@ -1,0 +1,52 @@
+---
+title: "People"
+description: Participants and Organization
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Participants (alphabetical order)
+
+[Samuel Aeschbach](https://samuelaeschbach.com), University of Basel  
+
+[Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
+
+[Beth Clarke](https://beth-clarke.com), University of Melbourne 
+
+[Jamie Cummins](https://www.dig.psy.unibe.ch/ueber_uns/personen/dr_cummins_jamie/index_ger.html), University of Bern 
+
+[Jennifer D’Souza](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-and-digital-libraries/staff/jennifer-dsouza), TIB - Leibniz Information Centre for Science and Technology  
+
+[Malte Elson](https://www.dig.psy.unibe.ch/about_us/staff/prof_dr_elson_malte/index_eng.html), University of Bern  
+
+[Susann Fiedler](https://www.wu.ac.at/cobe/prof-dr-susann-fiedler), Vienna University of Economics and Business  
+
+[Fabian Hutmacher](https://www.mcm.uni-wuerzburg.de/kp/personen/dr-fabian-hutmacher/), Julius-Maximilians-Universität Würzburg
+
+[Zakir Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/), University of Basel  
+
+[Edouard Machery](https://www.edouardmachery.com/), University of Pittsburgh  
+
+[Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel  
+
+[Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/), Ulm University  
+
+[Russell Poldrack](http://poldrack.github.io), Stanford University  
+
+[Loreen Tisdall](https://loreentisdall.github.io), University of Basel  
+
+[Maximilian Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), University of Basel  
+
+[Isabel Thielmann](https://csl.mpg.de/en/isabel-thielmann), Max Planck Institute for the Study of Crime, Security and Law   
+
+[Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
+
+[Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development  
+
+### Organization
+
+The *Conceptual Clarity Workshop* is organized by [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development) and [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/) (University of Basel). 
+
+Administrative support provided by [Laura Wiles](https://psychologie.unibas.ch/de/personen/laura-wiles/), Center for Cognitive and Decision Sciences, University of Basel. 

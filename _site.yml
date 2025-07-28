@@ -1,0 +1,22 @@
+name: "Conceptual Clarity"
+title: "Conceptual Clarity"
+description: |
+  Conceptual Clarity
+output_dir: "docs"
+navbar:
+  logo:
+    image: 0_website/hex_logo.png
+    href: https://cds.unibas.ch
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Workshop"
+      href: workshop.html
+    - text: "People"
+      href: people.html
+    - icon: fab fa-github
+      href: https://github.com/cdsbasel/clarity
+output: 
+  distill::distill_article:
+    toc: true
+    theme: styles.css

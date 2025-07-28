@@ -1,2 +1,2 @@
-# AIxPersonality
-Bridging and AI and personality
+# clarity
+Conceptual Clarity 

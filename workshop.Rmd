@@ -1,0 +1,96 @@
+---
+title: "Conceptual Clarity"
+description: |
+  Exploring solutions to conceptual confusion in psychology
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Venue
+
+Hotel Odelya,  Missionsstrasse 21a, 4055 Basel, Switzerland.[www.odelya.ch](https://www.odelya.ch/en/hotel)
+
+## Goals
+
+This workshop brings together researchers from psychology and related fields to explore the challenges posed by conceptual confusion in the field. Through presentations, discussions, and collaborative sessions, we aim to identify methods for improving conceptual clarity and assess consensus for the deployment of the identified solutions in psychology and related disciplines.
+
+## Schedule
+
+
+### Wednesday, September 10  
+**17:00** | Informal gathering & welcome dinner  
+
+
+### Thursday, September 11  
+
+**9:00 - 9:30** | **Introduction Round**  
+Participants introduce themselves (in 60 seconds or less).  
+
+**9:30 - 10:15** | **Lightning Talks (Session 1)**  
+Short presentations on research relevant to conceptual clarity (ca. 15 min, incl. discussion). 
+
+**Escaping the jingle-jangle jungle** [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel
+
+**Conceptual clarity through standardisation of research methods** [Malte Elson](https://www.dig.psy.unibe.ch/about_us/staff/prof_dr_elson_malte/index_eng.html), University of Bern  
+
+**The theory specification challenge: A collective effort for specifying classic theories of social psychology** [Susann Fiedler](https://www.wu.ac.at/cobe/prof-dr-susann-fiedler), Vienna University of Economics and Business  
+
+**10:15 - 10:45** | **Coffee Break**  
+
+**10:45 - 11:30** | **Lightning Talks (Session 2)**  
+Short presentations on research relevant to conceptual clarity (ca. 15 min, incl. discussion). 
+
+**A-priori and post-hoc methods for increasing conceptual clarity in psychology and beyond** [Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
+
+**Harnessing large language model-based tools for scientific knowledge engineering** [Jennifer D’Souza](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-and-digital-libraries/staff/jennifer-dsouza), TIB - Leibniz Information Centre for Science and Technology  
+
+**Sampling from cumulative item pools to overcome jingle fallacies** [Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/), Ulm University  
+
+**11:30 - 11:45** | **Short Break**  
+
+**11:45 - 12:30** | **Lightning Talks (Session 3)**  
+Short presentations on research relevant to conceptual clarity (ca. 15 min, incl. discussion). 
+
+**Towards conceptual clarity of self-knowledge and related concepts** [Isabel Thielmann](https://csl.mpg.de/en/isabel-thielmann), Max Planck Institute for the Study of Crime, Security and Law  
+
+**Can the vagueness of psychological concepts be overcome? If not, is this a problem?** [Fabian Hutmacher](https://www.mcm.uni-wuerzburg.de/kp/personen/dr-fabian-hutmacher/), Julius-Maximilians-Universität Würzburg
+
+**Should scientific concepts always be clear?** [Edouard Machery](https://www.edouardmachery.com/), University of Pittsburgh  
+
+**12:30 - 14:00** | **Lunch Break**  
+
+**14:00 - 15:00** | **Virtual Keynote**
+
+**Conceptual clarity in cognitive neuroscience: What’s the goal?**
+[Russell Poldrack](http://poldrack.github.io), Stanford University   
+
+**15:00 - 16:00** | **Working Group Discussions: Identifying Problems**  
+Participants break into groups to identify specific solutions for improving conceptual clarity. 
+
+**16:00 - 16:30** | **Coffee Break**  
+
+**16:30 - 17:30** | **Working Group Discussions: Identifying Solutions**  
+
+**19:00 - 21:00** | **Workshop Dinner**  
+
+### Friday, September 12  
+
+**9:00 - 10:30** | **Working Group Discussions: Summary Preparation**  
+Groups finalize their insights and prepare presentations.  
+
+**10:30 - 11:00** | **Coffee Break**  
+
+**11:00 - 12:30** | **Working Group Presentations and Discussion (Session 1)**  
+
+**12:30 - 14:00** | **Lunch Break**  
+
+**14:00 - 15:00** | **Working Group Presentations and Discussion (Session 2)**  
+
+**15:00 - 15:30** | **Coffee Break**  
+
+**15:30 - 15:50** | **Discussion: Conclusions & Future Steps**  
+Summary of key takeaways and planning next actions.  
+
+**15:50 - 16:00** | **Wrap-up & Farewell**  
