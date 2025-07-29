@@ -14,7 +14,10 @@ Seminaris CampusHotel Berlin,  Takustr. 39, 14195 Berlin, Germany [www.seminaris
 
 ## Goals
 
-The meeting will include input presentations and group discussions aimed at collaboratively developing perspectives on these questions. The primary goal is to outline and plan an article that disseminates our insights to both the psychology and artificial intelligence communities. 
+The meeting will include input presentations and group discussions aimed at collaboratively developing perspectives on the two main questions:
+1) How can AI advance personality psychology?
+2) How can personality psychology inform evaluations of AI? 
+The primary goal is to outline and plan an article that disseminates our insights to both the psychology and artificial intelligence communities. 
 
 ## Organization
 Each session will contain an introductory presenation (~20min) by one of the experts, followed by a presentation/comment, outlining open questions (~10min). Ater these two presentations, the expert group will split up into smaller groups, which will then discuss the overarching topic of the session (~45min). Each session will be finished with a plenary discussion, in which we gather the insights of the group discussions (~45min). 
