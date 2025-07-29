@@ -1,7 +1,7 @@
 ---
-title: "Conceptual Clarity"
+title: "Bridging Psychology and AI"
 description: |
-  Exploring solutions to conceptual confusion in psychology
+  The Future of Human and Machine Personality
 ---
 
 ```{r setup, include=FALSE}
@@ -10,87 +10,62 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Venue
 
-Hotel Odelya,  Missionsstrasse 21a, 4055 Basel, Switzerland.[www.odelya.ch](https://www.odelya.ch/en/hotel)
+Seminaris CampusHotel Berlin,  Takustr. 39, 14195 Berlin, Germany [www.seminaris.de/](https://www.seminaris.de/hotels/tagungshotel-berlin-dahlem/)
 
 ## Goals
 
-This workshop brings together researchers from psychology and related fields to explore the challenges posed by conceptual confusion in the field. Through presentations, discussions, and collaborative sessions, we aim to identify methods for improving conceptual clarity and assess consensus for the deployment of the identified solutions in psychology and related disciplines.
+The meeting will include input presentations and group discussions aimed at collaboratively developing perspectives on these questions. The primary goal is to outline and plan an article that disseminates our insights to both the psychology and artificial intelligence communities. 
+
+## Organization
+Each session will contain an introductory presenation (~20min) by one of the experts, followed by a presentation/comment, outlining open questions (~10min). Ater these two presentations, the expert group will split up into smaller groups, which will then discuss the overarching topic of the session (~45min). Each session will be finished with a plenary discussion, in which we gather the insights of the group discussions (~45min). 
+
 
 ## Schedule
 
 
-### Wednesday, September 10  
-**17:00** | Informal gathering & welcome dinner  
+### Tuesday, September 30  
+**19:00** | Informal gathering & (unpaid) dinner  
 
 
-### Thursday, September 11  
+### Wednesday, October 1  
 
-**9:00 - 9:30** | **Introduction Round**  
-Participants introduce themselves (in 60 seconds or less).  
+**9:00 - 10:00** | **Introduction Round & Welcome**  
+Welcome of the organizers. Participants introduce themselves (in 60 seconds or less). 
 
-**9:30 - 10:15** | **Lightning Talks (Session 1)**  
-Short presentations on research relevant to conceptual clarity (ca. 15 min, incl. discussion). 
+**10:00 - 12:00** | **Session 1 - What is personality in humans**  
+Introductory Presentation, followed by a commentary presentation, group discussions and a plenary discussion.
 
-**Escaping the jingle-jangle jungle** [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel
+**12:00 - 13:00** | **Lunch Break**  
 
-**Conceptual clarity through standardisation of research methods** [Malte Elson](https://www.dig.psy.unibe.ch/about_us/staff/prof_dr_elson_malte/index_eng.html), University of Bern  
+**13:00 - 15:00** | **Session 2 - Why can AI capture human personality?**  
+Introductory Presentation, followed by a commentary presentation, group discussions and a plenary discussion.
 
-**The theory specification challenge: A collective effort for specifying classic theories of social psychology** [Susann Fiedler](https://www.wu.ac.at/cobe/prof-dr-susann-fiedler), Vienna University of Economics and Business  
+**15:00 - 15:30** | **Coffe Break**
 
-**10:15 - 10:45** | **Coffee Break**  
+**15:30 - 17:30** | **Session 3 - What is personality in AI?**
+Introductory Presentation, followed by a commentary presentation, group discussions and a plenary discussion.
 
-**10:45 - 11:30** | **Lightning Talks (Session 2)**  
-Short presentations on research relevant to conceptual clarity (ca. 15 min, incl. discussion). 
+**19:00** | **(unpaid) Dinner**  
 
-**A-priori and post-hoc methods for increasing conceptual clarity in psychology and beyond** [Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
 
-**Harnessing large language model-based tools for scientific knowledge engineering** [Jennifer D’Souza](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-and-digital-libraries/staff/jennifer-dsouza), TIB - Leibniz Information Centre for Science and Technology  
+### Thursay, October 2  
 
-**Sampling from cumulative item pools to overcome jingle fallacies** [Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/), Ulm University  
+**10:00 - 12:00** | **Session 4 - Changing personality in humans**  
+Introductory Presentation, followed by a commentary presentation, group discussions and a plenary discussion.
 
-**11:30 - 11:45** | **Short Break**  
+**12:00 - 13:00** | **Lunch Break**  
 
-**11:45 - 12:30** | **Lightning Talks (Session 3)**  
-Short presentations on research relevant to conceptual clarity (ca. 15 min, incl. discussion). 
+**13:00 - 15:00** | **Session 5 - Changing personality in AI**  
+Introductory Presentation, followed by a commentary presentation, group discussions and a plenary discussion.
 
-**Towards conceptual clarity of self-knowledge and related concepts** [Isabel Thielmann](https://csl.mpg.de/en/isabel-thielmann), Max Planck Institute for the Study of Crime, Security and Law  
+**15:00 - 15:30** | **Coffe Break**
 
-**Can the vagueness of psychological concepts be overcome? If not, is this a problem?** [Fabian Hutmacher](https://www.mcm.uni-wuerzburg.de/kp/personen/dr-fabian-hutmacher/), Julius-Maximilians-Universität Würzburg
+**15:30 - 16:30** | **Discussion: Conclusions & Future Steps**  
+Summary of key takeaways, open questions and planning next actions.  
 
-**Should scientific concepts always be clear?** [Edouard Machery](https://www.edouardmachery.com/), University of Pittsburgh  
+**16:30 - 17:30** | **Wrap-up & Farewell**  
 
-**12:30 - 14:00** | **Lunch Break**  
+**19:00** | **(unpaid) Dinner**  
 
-**14:00 - 15:00** | **Virtual Keynote**
 
-**Conceptual clarity in cognitive neuroscience: What’s the goal?**
-[Russell Poldrack](http://poldrack.github.io), Stanford University   
 
-**15:00 - 16:00** | **Working Group Discussions: Identifying Problems**  
-Participants break into groups to identify specific solutions for improving conceptual clarity. 
-
-**16:00 - 16:30** | **Coffee Break**  
-
-**16:30 - 17:30** | **Working Group Discussions: Identifying Solutions**  
-
-**19:00 - 21:00** | **Workshop Dinner**  
-
-### Friday, September 12  
-
-**9:00 - 10:30** | **Working Group Discussions: Summary Preparation**  
-Groups finalize their insights and prepare presentations.  
-
-**10:30 - 11:00** | **Coffee Break**  
-
-**11:00 - 12:30** | **Working Group Presentations and Discussion (Session 1)**  
-
-**12:30 - 14:00** | **Lunch Break**  
-
-**14:00 - 15:00** | **Working Group Presentations and Discussion (Session 2)**  
-
-**15:00 - 15:30** | **Coffee Break**  
-
-**15:30 - 15:50** | **Discussion: Conclusions & Future Steps**  
-Summary of key takeaways and planning next actions.  
-
-**15:50 - 16:00** | **Wrap-up & Farewell**  
