@@ -9,44 +9,42 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Participants (alphabetical order)
 
-[Samuel Aeschbach](https://samuelaeschbach.com), University of Basel  
+[Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/), Ulm University  
+
+[Ruben Arslan](https://rubenarslan.github.io/), University of Witten-Herdecke 
 
 [Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
 
-[Beth Clarke](https://beth-clarke.com), University of Melbourne 
+[Giulio Costantini](https://en.unimib.it/giulio-costantini), University of Milano-Bicocca
 
-[Jamie Cummins](https://www.dig.psy.unibe.ch/ueber_uns/personen/dr_cummins_jamie/index_ger.html), University of Bern 
+[Mengchen Dong](https://www.mpib-berlin.mpg.de/mitarbeiter/mengchen-dong), Max-Planck Institute for Human Development
 
-[Jennifer D’Souza](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-and-digital-libraries/staff/jennifer-dsouza), TIB - Leibniz Information Centre for Science and Technology  
+[Lucie Flek](https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/modelling/mitgliederverzeichnis/lucie-flek), University of Bonn
 
-[Malte Elson](https://www.dig.psy.unibe.ch/about_us/staff/prof_dr_elson_malte/index_eng.html), University of Bern  
+[Igor Grossmann](https://igorgrossmann.com/), University of Waterloo 
 
-[Susann Fiedler](https://www.wu.ac.at/cobe/prof-dr-susann-fiedler), Vienna University of Economics and Business  
+[Alina Herderich](https://hai-lina.github.io/), University of Graz
 
-[Fabian Hutmacher](https://www.mcm.uni-wuerzburg.de/kp/personen/dr-fabian-hutmacher/), Julius-Maximilians-Universität Würzburg
+[Björn Hommel](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/team/dr-bjoern-hommel), University of Leipzig
 
-[Zakir Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/), University of Basel  
+[Jana Jung](https://jasoju.github.io/), University of Mannheim
 
-[Edouard Machery](https://www.edouardmachery.com/), University of Pittsburgh  
+[Marlene Lutz](https://marlenelutz.github.io/), University of Mannheim
 
 [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel  
 
-[Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/), Ulm University  
+[Max Pellert](https://mpellert.at/), Barcelona Supercomputing Center
 
-[Russell Poldrack](http://poldrack.github.io), Stanford University  
+[Ramona Schödel](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/prof-dr-ramona-schoedel/), Charlotte Fresenius Hochschule, University of Psychology   
 
-[Loreen Tisdall](https://loreentisdall.github.io), University of Basel  
+[Clemens Stachl](https://sites.google.com/view/clemensstachl/home), University of St. Gallen
 
-[Maximilian Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), University of Basel  
-
-[Isabel Thielmann](https://csl.mpg.de/en/isabel-thielmann), Max Planck Institute for the Study of Crime, Security and Law   
-
-[Caspar van Lissa](https://cjvanlissa.github.io/resume/), Tilburg University  
+[Tom Sühr](https://tomsuehr.com/), Max-Planck Institute for Intelligent Systems
 
 [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development  
 
 ### Organization
 
-The *Conceptual Clarity Workshop* is organized by [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development) and [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/) (University of Basel). 
+The *EAPP Focus Meeting* is organized by [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development), [Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/) (Ulm University), and [Ruben Arslan](https://rubenarslan.github.io/) (University of Witten-Herdecke). 
 
-Administrative support provided by [Laura Wiles](https://psychologie.unibas.ch/de/personen/laura-wiles/), Center for Cognitive and Decision Sciences, University of Basel. 
+Administrative support provided by [Carolyn Gläsener](https://www.mpib-berlin.mpg.de/person/carolyn-glaesener/57651), Max Planck Institute for Human Development

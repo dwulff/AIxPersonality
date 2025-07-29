@@ -1,7 +1,7 @@
 ---
-title: "Conceptual Clarity"
+title: "Bridging Psychology and AI: The Future of Human and Machine Personality"
 description: |
-  Interdisciplinary Workshop, September 10-12, 2025, Basel, Switzerland. 
+  EAPP funded focus meeting, October 1-2, 2025, Berlin, Germany. 
   
 output: 
   distill::distill_article:
@@ -15,7 +15,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-The proliferation of constructs and measures in psychology has led to confusion around key concepts and their operationalizations, sparking increasing calls for conceptual clarification. This workshop will bring together researchers in psychology and related fields to discuss the challenges posed by conceptual confusion and identify solutions to improve conceptual clarity in psychology and related fields.
+Artificial intelligence (AI) systems are increasingly capable of generating and interpreting human language with remarkable accuracy. This is particularly true of Large Language Models (LLMs), which are trained on extensive amounts of digitized content. As their real-world applications expand, research on AI and LLMs has grown rapidly, including investigations into their relevance for key questions in personality psychology. The integration between psychological and artificial intelligence research remains limited, leaving substantial opportunities for interdisciplinary collaboration untapped. This focus meeting seeks to bridge this gap by convening researchers from psychology and artificial intelligence to collaboratively address two core questions: 1) How can AI advance personality psychology? and 2) How can personality psychology inform evaluations of AI?
+
 
 The program of the meeting is detailed in the **[workshop](workshop.html)** page. You can find a full list of participants in **[people](people.html)**.
 
