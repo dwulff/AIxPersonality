@@ -15,6 +15,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
 
+[David Condon](https://cas.uoregon.edu/directory/natural-sciences/all/dcondon), University of Oregon/Midjourney
+
 [Giulio Costantini](https://en.unimib.it/giulio-costantini), University of Milano-Bicocca
 
 [Mengchen Dong](https://www.mpib-berlin.mpg.de/mitarbeiter/mengchen-dong), Max-Planck Institute for Human Development
@@ -35,7 +37,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Max Pellert](https://mpellert.at/), Barcelona Supercomputing Center
 
-[Ramona Schödel](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/prof-dr-ramona-schoedel/), Charlotte Fresenius Hochschule, University of Psychology   
+[Ramona Schödel](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/prof-dr-ramona-schoedel/), Charlotte Fresenius Hochschule, University of Psychology  
+
+[Indira Sen](https://indiiigo.github.io/), University of Mannheim
 
 [Clemens Stachl](https://sites.google.com/view/clemensstachl/home), University of St. Gallen
 
