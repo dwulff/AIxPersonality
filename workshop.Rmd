@@ -23,7 +23,7 @@ The primary goal is to outline and plan an article that disseminates our insight
 
 ## Organization
 
-Each session will beging with two presentations by two experts: the first presentation (~20min) introduces the theme of the session, whereas the second presentation (~10min) outlines open questions for us to discuss. Following these presentations, we will will split up into smaller groups to discuss the session's theme and open questions (~45min). Finally we will gather the insights from the group discussions in a plenary session moderated by the two initial presenters (~45min). 
+Each session will begin with two presentations by two experts: the first presentation (~20min) introduces the theme of the session, whereas the second presentation (~10min) outlines open questions for us to discuss. Following these presentations, we will will split up into smaller groups to discuss the session's theme and open questions (~45min). Finally we will gather the insights from the group discussions in a plenary session moderated by the two initial presenters (~45min). 
 
 ## Schedule
 
