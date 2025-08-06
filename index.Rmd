@@ -15,11 +15,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Artificial intelligence (AI) systems are increasingly capable of generating and interpreting human language with remarkable accuracy. This is particularly true of Large Language Models (LLMs), which are trained on extensive amounts of digitized content. As their real-world applications expand, research on AI and LLMs has grown rapidly, including investigations into their relevance for key questions in personality psychology. The integration between psychological and artificial intelligence research remains limited, leaving substantial opportunities for interdisciplinary collaboration untapped. This focus meeting seeks to bridge this gap by convening researchers from psychology and artificial intelligence to collaboratively address two core questions: 1) How can AI advance personality psychology? and 2) How can personality psychology inform evaluations of AI?
+The rapid advancement of artificial intelligence systems, particularly Large Language Models (LLMs), has created a compelling new frontier at the intersection of technology and human science. With their remarkable ability to generate and interpret human language, these systems present a dual opportunity that demands interdisciplinary collaboration. On one hand, AI offers powerful new tools to advance personality psychology, enabling novel ways to model theories and analyze behavior at an unprecedented scale. On the other, the principles of personality psychology provide an essential framework for evaluating the increasingly complex and human-like behaviors of AI systems.
 
+Despite this potential for a reciprocal relationship, integration between the fields remains limited. This focus meeting seeks to bridge this gap by convening researchers from both domains to collaboratively explore this two-way street: how can AI advance the study of personality, and how can personality science inform the evaluation of AI?
 
 The program of the meeting is detailed in the **[workshop](workshop.html)** page. You can find a full list of participants in **[people](people.html)**.
 
 <aside>
-Want to get in touch? Send us an email at [cds-psych@unibas.ch](mailto:cds-psych@unibas.ch)!
+Want to get in touch? Send us an email at [wulff@mpib-berlin.mpg.de](mailto:wulff@mpib-berlin.mpg.de)!
 </aside>
