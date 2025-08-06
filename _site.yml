@@ -1,7 +1,7 @@
-name: "Conceptual Clarity"
-title: "Conceptual Clarity"
+name: "Bridging Psychology and AI"
+title: "Bridging Psychology and AI"
 description: |
-  Conceptual Clarity
+  Bridging Psychology and AI
 output_dir: "docs"
 navbar:
   logo:
@@ -15,7 +15,7 @@ navbar:
     - text: "People"
       href: people.html
     - icon: fab fa-github
-      href: https://github.com/cdsbasel/clarity
+      href: https://dwulff.github.io/AIxPersonality
 output: 
   distill::distill_article:
     toc: true
