@@ -49,6 +49,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Organization
 
-The *EAPP Focus Meeting* is organized by [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development), [Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/) (Ulm University), and [Ruben Arslan](https://rubenarslan.github.io/) (University of Witten-Herdecke). 
+The *EAPP Focus Meeting* is organized by , [Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/) (Ulm University), [Ruben Arslan](https://rubenarslan.github.io/) (University of Witten-Herdecke), and [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development). 
 
 Administrative support provided by [Carolyn Gläsener](https://www.mpib-berlin.mpg.de/person/carolyn-glaesener/57651), Max Planck Institute for Human Development
