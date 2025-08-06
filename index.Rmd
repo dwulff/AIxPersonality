@@ -1,7 +1,7 @@
 ---
 title: "Bridging Psychology and AI: The Future of Human and Machine Personality"
 description: |
-  EAPP funded focus meeting, October 1-2, 2025, Berlin, Germany. 
+  EAPP-funded focus meeting, October 1-2, 2025, Berlin, Germany. 
   
 output: 
   distill::distill_article:

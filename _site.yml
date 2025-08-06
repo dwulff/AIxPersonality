@@ -5,8 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   logo:
-    image: 0_website/hex_logo.png
-    href: https://cds.unibas.ch
+    image: 0_website/minerva.png
+    href: https://github.com/dwulff
   right:
     - text: "Home"
       href: index.html
