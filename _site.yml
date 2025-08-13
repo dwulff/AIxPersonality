@@ -14,6 +14,8 @@ navbar:
       href: workshop.html
     - text: "People"
       href: people.html
+    - text: "Readings"
+      href: readings.html
     - icon: fab fa-github
       href: https://dwulff.github.io/AIxPersonality
 output: 

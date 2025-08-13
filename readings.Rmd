@@ -1,0 +1,26 @@
+---
+title: "People"
+description: Participants and Organization
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Readings
+
+[Roberts, B. W., & Yoon, H. J. (2022). Personality psychology. Annual review of psychology, 73(1), 489-516.](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-114927) 
+
+[Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. Behavior Research Methods, 56(8), 8214-8237.](https://link.springer.com/article/10.3758/s13428-024-02455-8)
+
+[Hommel, B. E., & Arslan, R. C. (2024). Language models accurately infer correlations between psychological items and scales from text alone. PsyArXiv](https://osf.io/kjuce_v4)
+
+[Wulff, D. U., & Mata, R. (2025). Semantic embeddings reveal and address taxonomic incommensurability in psychological measurement. Nature Human Behaviour, 1-11.](https://www.nature.com/articles/s41562-024-02089-y)
+
+[Pellert, M., Lechner, C. M., Wagner, C., Rammstedt, B., & Strohmaier, M. (2024). Ai psychometrics: Assessing the psychological profiles of large language models through psychometric inventories. Perspectives on Psychological Science, 19(5), 808-826.](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
+
+[Sühr, T., Dorner, F. E., Salaudeen, O., Kelava, A., & Samadi, S. (2025). Stop Evaluating AI with Human Tests, Develop Principled, AI-specific Tests instead. arXiv preprint 	arXiv:2507.23009](https://arxiv.org/pdf/2507.23009)
+
+[Lutz, M., Sen, I., Ahnert, G., Rogers, E., & Strohmaier, M. (2025). The Prompt Makes the Person (a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models. arXiv preprint arXiv:2507.16076.](https://arxiv.org/abs/2507.16076)
+
+
